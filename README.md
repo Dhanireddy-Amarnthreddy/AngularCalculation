@@ -45,7 +45,7 @@ Publish the website in the given URL.
             <Cylinder-Area></Cylinder-Area>
         </div>
         <div class="footer">
-            Developed by: Koduru Sanath Kumar Reddy
+            Developed by: Amarnath Reddy
         </div>
     </div>
 </body>
@@ -138,12 +138,12 @@ export class CylinderComponent{
 ### app.component.css:
 ~~~
 .container{
-    background-color: red;
+    background-color: orange;
     text-align: center;
     height: 720pxx;
 }
 .subcontainer{
-    background-color: orange;
+    background-color: green;
     width: 600px;
     height: 300px;
     text-align: center;
@@ -181,7 +181,8 @@ export class AppModule { }
 
 ~~~
 ## OUTPUT:
-![](cal.png)
+![image](https://user-images.githubusercontent.com/94165103/153904346-c5d331f7-79e8-497d-850e-3d539ad9667a.png)
+
 
 ## Result:
 This is code is executed successfully to create a webpage to make mathematical calculations using angular.
